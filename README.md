@@ -7,7 +7,7 @@
 
 #### [Задание 1.1](https://github.com/surkovaes/practice-2-semester/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.1%20%D0%98%D0%A1%D0%A0.pdf) Изучить и проанализировать печатные и Интернет-источники по философским проблемам информатики
 
-![Задание 1.1](https://drive.google.com/open?id=1KnHMlEjPkQBRs0_SXkKf1UO7XirJdbPa)
+![Задание 1.1](https://drive.google.com/open?id=10vWhtkjfhzxh8Ne3FZyoh6J3mLMvKXe6)
 
 #### [Задание 1.2](https://github.com/surkovaes/practice-2-semester/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.2%20%D0%98%D0%A1%D0%A0.jpg) Выделить важные этапы в истории развития информатики и их социальные последствия
 

@@ -73,4 +73,6 @@
 
 #### Задание 2.3 Изучить прикладное программное обеспечение информационно-вычислительной системы предприятия (организации)
 
-#### Задание 2.4 Изучить технические средства информационно-вычислительной системы предприятия (организации)
+#### [Задание 2.4](https://github.com/surkovaes/practice-2-semester/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.4%20%D0%92%D0%A1%D0%A0.pdf) Изучить технические средства информационно-вычислительной системы предприятия (организации)
+
+![Задание 2.4](https://www.unitag.io/qreator/generate?crs=xnjFkEn%252FP85fCPDXJ%252FXXKnPnKU%252FtWVh9E7ei8Ex%252BR4XsTvus59MiRl4OtJ5Y%252F3aRXopA7Qn4wJ6m3qLfsP4IWv39ocSd3mMczmj1AuyiW6K%252F58n8n8s5NK61vAUi6GUR9QhYs1xUoNWG3PC4owAgU1Q%252FHThW3FIfdeEUqZ%252BlJgc%253D&crd=fhOysE0g3Bah%252BuqXA7NPQx2rrS2o9rjHfmG68tV%252F4kzebB4n414t%252FWLYL203DgaPxh8gqne3a4y4yol%252BW8DEK6JamM0%252FCyw%252BmhXeqLQB46VAJn9X5scQFdfjymHOwy%252BCOC1IbaZS8dCdch0%252BTdHkHv6vs1qS0AF9StzAxusQKoiigXg%252FqXws%252BksNxJ2sTw%252BaKSRl5AUZtKSEB%252FZUurfCeidB6A28vhD6vk6nY1xR%252FiM%253D)

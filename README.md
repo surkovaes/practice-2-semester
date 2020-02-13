@@ -71,7 +71,9 @@
 
 ![Задание 2.2](https://www.unitag.io/qreator/generate?crs=xnjFkEn%252FP85fCPDXJ%252FXXKnPnKU%252FtWVh9E7ei8Ex%252BR4XsTvus59MiRl4OtJ5Y%252F3aRXopA7Qn4wJ6m3qLfsP4IWv39ocSd3mMczmj1AuyiW6K%252F58n8n8s5NK61vAUi6GUR9QhYs1xUoNWG3PC4owAgU1Q%252FHThW3FIfdeEUqZ%252BlJgc%253D&crd=fhOysE0g3Bah%252BuqXA7NPQx2rrS2o9rjHfmG68tV%252F4kzebB4n414t%252FWLYL203DgaPxh8gqne3a4y4yol%252BW8DEK6JamM0%252FCyw%252BmhXeqLQB46VAJn9X5scQFdfjymHOwy%252BCOC1IbaZS8dCdch0%252BTdHkHv6vs1qS0AF9StzAxusQKogMMus4vRX8e%252Fx85L5EnHOMwTMCR9PfdV1NAg%252FHnSZn%252F49PPYBAfL%252B1tcPOB4qW6Xw%253D)
 
-#### Задание 2.3 Изучить прикладное программное обеспечение информационно-вычислительной системы предприятия (организации)
+#### [Задание 2.3](https://github.com/surkovaes/practice-2-semester/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.3%20%D0%92%D0%A1%D0%A0.pdf) Изучить прикладное программное обеспечение информационно-вычислительной системы предприятия (организации)
+
+![Задание 2.3](https://www.unitag.io/qreator/generate?crs=xnjFkEn%252FP85fCPDXJ%252FXXKnPnKU%252FtWVh9E7ei8Ex%252BR4XsTvus59MiRl4OtJ5Y%252F3aRXopA7Qn4wJ6m3qLfsP4IWv39ocSd3mMczmj1AuyiW6K%252F58n8n8s5NK61vAUi6GUR9QhYs1xUoNWG3PC4owAgU1Q%252FHThW3FIfdeEUqZ%252BlJgc%253D&crd=fhOysE0g3Bah%252BuqXA7NPQx2rrS2o9rjHfmG68tV%252F4kzebB4n414t%252FWLYL203DgaPxh8gqne3a4y4yol%252BW8DEK6JamM0%252FCyw%252BmhXeqLQB46VAJn9X5scQFdfjymHOwy%252BCOC1IbaZS8dCdch0%252BTdHkHv6vs1qS0AF9StzAxusQKoi5yG7uxR2cfwP3vvm1tzWsCYNHip1BWUza9B0wuCjBqdX202lQ6XeHGOsMTifLqoc%253D)
 
 #### [Задание 2.4](https://github.com/surkovaes/practice-2-semester/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.4%20%D0%92%D0%A1%D0%A0.pdf) Изучить технические средства информационно-вычислительной системы предприятия (организации)
 
